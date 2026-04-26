@@ -1,4 +1,4 @@
-# rag-ai-retrieval-system..001
+# rag-ai-retrieval-system
 LLM-powered Retrieval Augmented Generation (RAG) system using vector embeddings and Pinecone.
 
 Problem
